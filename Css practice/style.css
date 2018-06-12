@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	/*background-color: #ffcd4f;*/
+	height: 100vh;
+}
+
+*{
+	box-sizing: border-box;
+}
+h1{
+	color: orange;
+	font-family: verdana;
+	text-shadow: 2px 3px 5px grey;
+	letter-spacing: 0.3px;
+	word-spacing:1px;
+}
